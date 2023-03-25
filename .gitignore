@@ -1,0 +1,11 @@
+#output
+*.out
+*.o
+
+
+#image
+*.jpg
+*.png
+*.raw
+*.bmp
+
